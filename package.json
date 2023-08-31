@@ -12,7 +12,7 @@
     "start:prod": "cross-env NODE_ENV=production nodemon app.js",
     "sequelize": "dotenv sequelize"
   },
-  "author": "Yurandir",
+  "author": "Dario",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
