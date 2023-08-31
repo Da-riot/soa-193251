@@ -1,9 +1,10 @@
-Inicio del proyecto:
-    -descarga de dependencias: npm install
-    -ejecucion de la api: npm run start:dev
+Dependencias necesarias:
+    *Descargar dependencias: npm install
 
-DB:
-    -Base de datos: postgres 
-    -crear una base de datos llamada: PGM
-    -configura los enviromens .env.development : cambia las credenciales(USER, LOCALHOST, PASSWORD, HOST, PORT)
-    -las tablas se crean de manera automatica al ejecutar la api
+Ejecutar:
+    *Run API: npm run start:dev
+
+Referente a la base de datos:
+    *Manejador: PostgreSQL
+    *CREATE DATABASE SOA
+    *Configurar los enviromens .env.development
